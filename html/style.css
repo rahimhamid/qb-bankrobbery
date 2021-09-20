@@ -89,7 +89,7 @@
     height: 15em;
     border-radius: 50%;
     margin: 0 0 0 -7.5em;
-    border: 2px solid #fefefe;
+    border: 2px solid #9e00fa;
     transform: rotate(var(--end));
 }
 
@@ -112,7 +112,7 @@ p {
     font-size: 3em;
     font-family: 'Poppins', sans-serif;
     font-weight: 100;
-    color: #fefefe;
+    color: #cc00ff;
     z-index: 10;
     transform: translate(-50%,60%);
 }
@@ -121,7 +121,7 @@ p > h4{
     margin-top: -0.5em;
     font-family: 'Poppins', sans-serif;
     font-weight: 100;
-    color: #fefefe;
+    color: #ff00ea;
 }
 
 .point {
